@@ -1,9 +1,15 @@
 {
   "files": {
     "main.css": "/portfolio/static/css/main.1ac4eb14.css",
-    "main.js": "/portfolio/static/js/main.a6b9708b.js",
-    "static/media/hero_light.jpg": "/portfolio/static/media/hero_light.e4bb464730bd1b863921.jpg",
-    "static/media/hero_dark.jpg": "/portfolio/static/media/hero_dark.e4bb464730bd1b863921.jpg",
+    "main.js": "/portfolio/static/js/main.e91fa2eb.js",
+    "static/media/card-select.gif": "/portfolio/static/media/card-select.04f68c7f2ad63c747c8c.gif",
+    "static/media/building.gif": "/portfolio/static/media/building.ca17a0d99d90374b8ae0.gif",
+    "static/media/shader-editor.gif": "/portfolio/static/media/shader-editor.8cd95a32a5266bb2d9f5.gif",
+    "static/media/color-picker.gif": "/portfolio/static/media/color-picker.6c1ae10e4a992b62889b.gif",
+    "static/media/enemy-attack.gif": "/portfolio/static/media/enemy-attack.c96e2d2b85fc5c71a98f.gif",
+    "static/media/card-draw.gif": "/portfolio/static/media/card-draw.223ad870c80c6746bf3f.gif",
+    "static/media/hero_dark.jpg": "/portfolio/static/media/hero_dark.f189fff6c49998a5fa18.jpg",
+    "static/media/hero_light.jpg": "/portfolio/static/media/hero_light.f189fff6c49998a5fa18.jpg",
     "static/media/responsive_mobile.jpg": "/portfolio/static/media/responsive_mobile.05b88de217fe76c934e5.jpg",
     "static/media/responsive_mobile_light.jpg": "/portfolio/static/media/responsive_mobile_light.46334383243fbf77c9ee.jpg",
     "static/media/responsive_mobile_dark.jpg": "/portfolio/static/media/responsive_mobile_dark.a7b92dbbe4a45200956b.jpg",
@@ -30,10 +36,10 @@
     "index.html": "/portfolio/index.html",
     "static/media/moon.svg": "/portfolio/static/media/moon.38e0fa4af5f95b18c3f84344cb2555db.svg",
     "main.1ac4eb14.css.map": "/portfolio/static/css/main.1ac4eb14.css.map",
-    "main.a6b9708b.js.map": "/portfolio/static/js/main.a6b9708b.js.map"
+    "main.e91fa2eb.js.map": "/portfolio/static/js/main.e91fa2eb.js.map"
   },
   "entrypoints": [
     "static/css/main.1ac4eb14.css",
-    "static/js/main.a6b9708b.js"
+    "static/js/main.e91fa2eb.js"
   ]
 }
